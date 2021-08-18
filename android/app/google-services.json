@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952219841346",
+    "project_id": "my-movies-40f6f",
+    "storage_bucket": "my-movies-40f6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952219841346:android:f0ec15324546088c614edb",
+        "android_client_info": {
+          "package_name": "abhitk.example.my_movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952219841346-u00uud4aobic3p41dbjjm4km76turisb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ3Zdc2VoQCqA0ZGqg80-zGXCCb72Sqhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952219841346-u00uud4aobic3p41dbjjm4km76turisb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
