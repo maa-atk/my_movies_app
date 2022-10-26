@@ -1,8 +1,8 @@
 # my_movie
 
-List of favorite movies
+List of my favorite movies
 
-## Screenshots
+## App Screenshots
 
 
 ![1](https://user-images.githubusercontent.com/59571289/130026982-364e29de-291f-4e5a-aa42-81fd90876fba.jpg)
